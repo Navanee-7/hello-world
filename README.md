@@ -43,3 +43,8 @@ term
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+
+## subheader
+### Local developement
+1. Open index.html in your browser
